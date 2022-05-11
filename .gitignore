@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Res
+/OLD&UNUSED
+/Docs
+/Compiled/Debug
+/.vs/GameFramework/v15
+/.vs/Game
+/d_Game.exe
+/d_Game.ilk
+/Game.vcxproj.filters
+/Game.vcxproj.user
+/Game.sln
